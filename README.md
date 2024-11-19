@@ -22,6 +22,7 @@ Para concluir, a formatação do e-book foi executada usando o Microsoft Office 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 [Projeto e-book.docx](https://github.com/user-attachments/files/17820854/Projeto.e-book.docx)
+https://github.com/ALeao-br/Projeto-e-book.git
 
 
 ## 💭 Reflexão (Opcional)
